@@ -139,10 +139,10 @@ a space merge: a flow that switches on one step earlier or later is a discontinu
 chaotic from there. The outcome is robust, the trajectory is not, and a whole-run comparison between the
 port and the oracle only means something if the two start from the same bits.
 
-<img alt="The Titanic flooding simulator two and a half hours after the collision, bow down, with the damage diagram and flooded compartments" src="docs/titanic-viewer.png" width="100%">
+<img alt="The Titanic flooding simulator 149 minutes after the collision, bow down, with the damage diagram and flooded compartments" src="docs/titanic-viewer.png" width="100%">
 
-*The model's viewer, 154 minutes after the collision. The model, the viewer and the port live in the
-companion `sinksim` project.*
+*The model's viewer 149 minutes after the collision: 6.2° down by the head, 5.7° list to port, 31,530 t
+of water aboard. The model, the viewer and the port live in the companion `sinksim` project.*
 
 ## CUDA
 
