@@ -144,7 +144,7 @@ port and the oracle only means something if the two start from the same bits.
 *The model's viewer 149 minutes after the collision: 6.2° down by the head, 5.7° list to port, 31,530 t
 of water aboard. The model and its viewer are the
 [Titanic Sinking Simulator](https://github.com/bochen2029-pixel/titanic-sinking-simulator); the C++/CUDA port is
-the companion `sinksim` project.*
+[sinksim](https://github.com/bochen2029-pixel/sinksim), which vendors this header.*
 
 ## CUDA
 
