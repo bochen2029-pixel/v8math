@@ -21,6 +21,6 @@ node divergence_data.js <titanic-sim package dir> golden_titanic.shipped.json go
 python plot_divergence.py divergence.csv ../../docs
 ```
 
-The package directory must hold the model's `core/core.js` and `core/scenarios.js`; the model lives in
-the companion `sinksim` repository (its JavaScript oracle). `divergence.csv` is the output used for the
-figure in the top-level README.
+The package directory must hold the model's `core/core.js` and `core/scenarios.js`: a checkout of the
+[Titanic Sinking Simulator](https://github.com/bochen2029-pixel/titanic-sinking-simulator). `divergence.csv`
+is the output used for the figure in the top-level README.
